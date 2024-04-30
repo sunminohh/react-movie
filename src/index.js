@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import CoinApp from './CoinApp';
+import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <CoinApp />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
