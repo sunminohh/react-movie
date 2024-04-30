@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sunminohh/react-study/static/css/main.04e51e29.css",
-    "main.js": "/sunminohh/react-study/static/js/main.985a82f2.js",
+    "main.js": "/sunminohh/react-study/static/js/main.658dc3f5.js",
     "index.html": "/sunminohh/react-study/index.html",
     "main.04e51e29.css.map": "/sunminohh/react-study/static/css/main.04e51e29.css.map",
-    "main.985a82f2.js.map": "/sunminohh/react-study/static/js/main.985a82f2.js.map"
+    "main.658dc3f5.js.map": "/sunminohh/react-study/static/js/main.658dc3f5.js.map"
   },
   "entrypoints": [
     "static/css/main.04e51e29.css",
-    "static/js/main.985a82f2.js"
+    "static/js/main.658dc3f5.js"
   ]
 }
