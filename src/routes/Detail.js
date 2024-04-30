@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useParams } from "react-router-dom";
+import styles from "./Home.module.css";
 
 function Detail() {
     const {id} = useParams()
@@ -14,7 +15,12 @@ function Detail() {
         getMovie();
     }, []);
 
-    return <h1>Detail</h1>
+    return (
+        <div className={styles.container}>
+            <h1>Detail</h1>
+        </div>
+    )   
+
 }
 
 export default Detail;
